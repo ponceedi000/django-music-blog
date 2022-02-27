@@ -47,5 +47,5 @@ Note: Had to troubleshoot Django issues do to using WSL. I fixed testing issues 
 
 
 ## Credits 
-- [Command Prompt Commands]([https://www.tutorialspoint.com/python_text_processing/python_extract_emails_from_text.htm)
+- [Command Prompt Commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302)
 - [How to get Django](https://www.djangoproject.com/download/)
